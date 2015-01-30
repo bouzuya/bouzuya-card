@@ -2,11 +2,16 @@
 
 bouzuya's card.
 
-# front
+# Preview
+
+## Front
 
 ![](card-front.svg)
 
-# back
+## Back
 
 ![](card-back.svg)
 
+# Tools
+
+- [inkscape](https://inkscape.org)
