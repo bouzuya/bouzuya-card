@@ -4,13 +4,9 @@ bouzuya's card.
 
 # Preview
 
-## Front
+[![front](card-front.svg)](card-front.svg)
 
-[![](card-front.svg)](card-front.svg)
-
-## Back
-
-[![](card-back.svg)](card-back.svg)
+[![back](card-back.svg)](card-back.svg)
 
 # Tools
 
