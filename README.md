@@ -6,11 +6,11 @@ bouzuya's card.
 
 ## Front
 
-![](card-front.svg)
+[![](card-front.svg)](card-front.svg)
 
 ## Back
 
-![](card-back.svg)
+[![](card-back.svg)](card-back.svg)
 
 # Tools
 
