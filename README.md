@@ -6,11 +6,11 @@ bouzuya's card.
 
 ## Front
 
-![](https://raw.githubusercontent.com/bouzuya/bouzuya-card/master/card-front.svg)
+![](card-front.svg)
 
 ## Back
 
-![](https://raw.githubusercontent.com/bouzuya/bouzuya-card/master/card-back.svg)
+![](card-back.svg)
 
 # Tools
 
