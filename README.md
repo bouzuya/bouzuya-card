@@ -2,11 +2,13 @@
 
 bouzuya's card.
 
-# Preview
+# History
 
-[![front](card-front.svg)](card-front.svg)
+## v1
 
-[![back](card-back.svg)](card-back.svg)
+![front](archives/v1/card-front.png)
+
+![back](archives/v1/card-back.png)
 
 # Tools
 
